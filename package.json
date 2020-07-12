@@ -25,7 +25,9 @@
     "url": "https://github.com/ObsidianHub/dc_crm-sales-system/issues"
   },
   "homepage": "https://github.com/ObsidianHub/dc_crm-sales-system#readme",
-  "dependencies": {},
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  },
   "devDependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4"
